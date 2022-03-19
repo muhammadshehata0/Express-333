@@ -286,7 +286,6 @@
 }
 
 .u-section-2 .u-list-item-2 {
-  background-size: auto;
   --animation-custom_in-scale: 0.3;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
@@ -459,6 +458,10 @@
   .u-section-2 .u-line-1 {
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-2 .u-list-item-2 {
+    background-size: auto;
   }
 
   .u-section-2 .u-line-2 {
